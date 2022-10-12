@@ -1,5 +1,5 @@
 {
-  "name": "lab-ds",
+  "name": "design-system-ignite-lab",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,11 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.0",
+    "@radix-ui/react-slot": "^1.0.0",
+    "clsx": "^1.2.1",
     "init": "^0.1.2",
+    "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^6.5.12"
