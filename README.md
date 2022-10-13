@@ -1,7 +1,7 @@
 # Design System - Ignite Lab
 
 ## Feature
-- Aplicação em ReactJS desenvolvido com Storybook (integrado via CI/CD com GitHub Pages [aqui](https://evertonkoga.github.io/design-system-ignite-lab))
+- Aplicação em ReactJS desenvolvido com Storybook (integrado via CI/CD com GitHub Pages [aqui](https://evertonkoga.github.io/design-system-ignite-lab)). Todo desenvolvimento dos componentes no Storybook foi criado inicialmente no Figma [aqui](https://www.figma.com/file/VSIV8lDmw7Er9l1dYLPmYI/Ignite-Lab-Design-System?node-id=1%3A2).
 
 ## Tecnologia
 - React
